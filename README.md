@@ -5,7 +5,7 @@ This project explores Super Smash Bros. Ultimate character statistics through da
 
 ## 🗂️ Dataset
 - Source: Kaggle (Super Smash Bros. Ultimate character stats)
-- Data Size: 78 rows × 5 columns (~Z MB)
+- Data Size: 78 rows × 5 columns (1.98 KB)
 - Preprocessing: Cleaned and filtered the dataset in Excel before importing it into Python.
 
 ## 🏗️ Methods & Analysis

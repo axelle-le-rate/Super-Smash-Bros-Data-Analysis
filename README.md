@@ -41,7 +41,7 @@ Once you've cloned the repo and installed the dependencies, you can open and run
  ```sh
 jupyter notebook
  ```
-Open the Super-Smash-Analysis.ipynb file and run all cells.
+Open the Pandas Project Super Smash Bros Ultimate Data Analysis.ipynb file and run all cells.
 
 ## ⚙️ Technologies Used
 Python · Pandas · NumPy · Matplotlib · Ipywidgets · Pandas Styler · Warnings

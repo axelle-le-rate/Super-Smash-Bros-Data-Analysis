@@ -31,7 +31,6 @@ This project uses the following Python libraries:
 - Pandas
 - Matplotlib
 - Ipywidgets
-- PandasStyler
   
 To install these dependencies, use:
 ```pip install -r requirements.txt  ```
@@ -45,7 +44,7 @@ jupyter notebook
 Open the Super-Smash-Analysis.ipynb file and run all cells.
 
 ## ⚙️ Technologies Used
-Python · Pandas · NumPy · Matplotlib · Ipywidgets · PandasStyler
+Python · Pandas · NumPy · Matplotlib · Ipywidgets · Pandas Styler · Warnings
 
 ## 📌 Future Improvements
 - Incorporate real match data to analyze win rates per character.

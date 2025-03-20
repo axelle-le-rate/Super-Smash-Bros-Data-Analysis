@@ -26,7 +26,7 @@ This project explores Super Smash Bros. Ultimate character statistics through da
 
 1. **Clone the repository**:  
    ```sh
-    https://github.com/YourGitHubUsername/Super-Smash-Stats.git
+    https://github.com/axelle-le-rate/Super-Smash-Stats.git
    
 2. **Install dependencies**:
 This project uses the following Python libraries:
@@ -44,7 +44,7 @@ Once you've cloned the repo and installed the dependencies, you can open and run
  ```sh
 jupyter notebook
  ```
-Open the Pandas Project Super Smash Bros Ultimate Data Analysis.ipynb file and run all cells.
+Open the Super-Smash-Bros-Ultimate-Data-Analysis.ipynb file and run all cells.
 
 ## ⚙️ Technologies Used
 Python · Pandas · NumPy · Matplotlib · Ipywidgets · Pandas Styler · Warnings

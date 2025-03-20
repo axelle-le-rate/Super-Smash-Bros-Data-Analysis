@@ -1,4 +1,4 @@
-# 🏆 Super Smash Bros. Ultimate Data Analysis
+# 🎮 Super Smash Bros. Ultimate Data Analysis
 
 ## 📌 Project Overview
 This project explores Super Smash Bros. Ultimate character statistics through data visualization and interactive analysis. Using Pandas, Matplotlib, NumPy, and Ipywidgets, I created visualizations to analyze character attributes like weight, speed, and attack range. The project was inspired by an Intro to Pandas lecture, where Pokémon stats were analyzed, but I applied the concepts to Super Smash Bros. instead.
